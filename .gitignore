@@ -1,4 +1,53 @@
-/*
-
 !*.ipynb
 !*.py
+
+*.csv
+*.bmp
+*.db
+*.png
+*.jpg
+*.bin
+*.idea
+*.ipynb_checkpoints/
+*.zip
+*.gz
+*.log
+*.json
+*raw/
+*wandb/
+
+*__MACOSX/
+*imagenet-mini/
+*PennFudanPed/
+*train_masks/
+*cifar-10-batches-py/
+
+*/__pycache__/
+
+Deep_learning_hse/seminars/sem02/somefile
+
+Deep_learning_hse/seminars/sem03/__pycache__/filter_viz.cpython-39.pyc
+
+Deep_learning_hse/seminars/sem05/MSR-LA - 3467.docx
+
+Deep_learning_hse/seminars/sem05/readme\[1\].txt
+
+Deep_learning_hse/seminars/sem06/imagenet1000_clsidx_to_labels.txt
+
+*.pt
+
+*.tsv
+
+Deep_learning_school_2/3.1 Домашнее задание Simple embeddings/data/
+
+Deep_learning_school_1/24. Домашнее задание. Семантическая сегментация/PH2Dataset/
+
+*.rar
+
+*.pkl
+
+*.pptx
+
+Deep_learning_school_1/16. Домашнее задание. Решение ML-задачи и Kaggle/catboost_info/learn/
+
+Deep_learning_school_1/16. Домашнее задание. Решение ML-задачи и Kaggle/catboost_info/test/events.out.tfevents
